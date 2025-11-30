@@ -8,6 +8,7 @@ corrected through various Python scripts and manual proofreading with corroborat
 from the PDF files.
 
 Swete 1909 LXX is public domain and the PDFs used can be found at:
+
 	Vol I https://archive.org/details/theoldtestamenti00unknuoft
 	Vol II https://archive.org/details/oldtestamenting02swet
 	Vol III https://archive.org/details/oldtestgreek00unknuoft
