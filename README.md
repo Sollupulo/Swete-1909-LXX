@@ -28,3 +28,10 @@ polytonic Greek on an American English keyboard so seemless.
 
 As this is a work in progress, files are added as each book of Swete's LXX are
 proofread.
+
+Should you find any errors that remain, it would be greatly appreciated that you would 
+report them to me for correction at ddoowright1@gmail.com. Please, keep in mind that I am 
+not in the text critical field and do not intend to "fix" any errors in the text itself. 
+Other than some formatting changes where necessary, the text will intentionally reflect 
+exactly what the PDF text body says, character for character. Marginal and critical 
+apparatus have not been reproduced.
