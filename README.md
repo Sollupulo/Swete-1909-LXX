@@ -1,7 +1,7 @@
 # Swete-1909-LXX
 An accurate digital version of Swete's 1909 Septuagint
 
-Special thanks go out to Eliran Wong (https://github.com/eliranwong/LXX-Swete-1930)
+Special thanks go out to Nathan D. Smith (https://github.com/nathans/lxx-swete)
 for providing the OCR scans. Without throwing shade upon him, there were many
 errors in the files due to the low DPI of the original PDF files. These are being
 corrected through various Python scripts and manual proofreading with corroboration
